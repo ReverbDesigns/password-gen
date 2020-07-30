@@ -12,8 +12,8 @@ You may choose lowercase, uppercase, numeric, and/or special characters.
 
 You will be selecting the length of the password.
 
-hosted version: https://reverbdesigns.github.io/passwordgen
+hosted version: https://reverbdesigns.github.io/password-gen
 
-git repo: https://github.com/ReverbDesigns/passwordgen.git
+git repo: https://github.com/ReverbDesigns/password-gen.git
 
  ![index screenshot](./assets/images/index1.png)
